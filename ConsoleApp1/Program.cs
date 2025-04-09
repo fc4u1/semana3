@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Bienvenido al curso de c#");
             Console.WriteLine("mi segundo intento");
+            Console.WriteLine("tercer cambio");
             Console.ReadKey();
         }
     }
